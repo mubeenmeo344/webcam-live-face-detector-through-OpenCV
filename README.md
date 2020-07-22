@@ -7,7 +7,7 @@ It can also work directly with webcam.
 
 Run 'webcam.py' for face detection using webcam, you can also use this file to detect faces in video by entering video-path instead of '0' in cv2.VideoCapture method, for example:
 
-						cv2.VideoCapture("../video/path/1.mp4")
+	cv2.VideoCapture("../video/path/1.mp4")
 							
 To count number of faces with face detection run 'face_detect.py'.
 
