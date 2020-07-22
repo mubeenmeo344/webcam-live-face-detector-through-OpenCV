@@ -3,7 +3,7 @@ This project is purely built in python language recently. The main tasks it will
 
 It can also work directly with webcam.
 
-'Requirements.txt' file contains packages with versions info. required to run the code.
+'requirements.txt' file contains packages with versions info. required to run the code.
 
 Run 'webcam.py' for face detection using webcam, you can also use this file to detect faces in video by entering video-path instead of '0' in cv2.VideoCapture method, for example:
 
